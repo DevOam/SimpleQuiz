@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">simpleQuiz</string>
+    <string name="simple_quiz">Simple Quiz</string>
+    <string name="total_questions">total questions</string>
+    <string name="this_will_be_the_question">this will be the question</string>
+    <string name="ans_a">ANS A</string>
+    <string name="ans_b">ANS B</string>
+    <string name="ans_c">ANS C</string>
+    <string name="ans_d">ANS D</string>
+    <string name="s">ANS D</string>
+    <string name="sumbit">sumbit</string>
+</resources>
